@@ -21,14 +21,8 @@ main:
   - title: "Research Experience"
     url: "/#-research-experience"
 
-  - title: "Projects"
-    url: "/#-projects"
-
   - title: "Leadership"
     url: "/#-leadership-and-service"
 
   - title: "Competitions"
     url: "/#-competitions"
-
-  - title: "Skills"
-    url: "/#-skills"

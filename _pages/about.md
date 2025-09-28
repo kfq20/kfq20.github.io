@@ -28,16 +28,105 @@ I am a first-year Ph.D. student at the Institute for Artificial Intelligence, Pe
 - *2023.12*: &nbsp;🏆 Our team finished 6/117 (Honorable Winner) in the NeurIPS 2023 Melting Pot Contest.
 
 # 📝 Publications
-- **Fanqi Kong**, Yizhe Huang, Song-Chun Zhu, Siyuan Qi, Xue Feng. *Learning to Balance Altruism and Self-interest Based on Empathy in Mixed-Motive Games*. NeurIPS 2024.
-- Yizhe Huang, Xingbo Wang, Hao Liu, **Fanqi Kong**, Aoyang Qin, Min Tang, Xiaoxi Wang, Song-Chun Zhu, Mingjie Bi, Siyuan Qi, et al. *AdaSociety: An Adaptive Environment with Social Structures for Multi-Agent Decision-Making*. NeurIPS 2024 Datasets & Benchmarks.
-- Yizhe Huang, Anji Liu, **Fanqi Kong**, Yaodong Yang, Song-Chun Zhu, Xue Feng. *Efficient Adaptation in Mixed-Motive Environments via Hierarchical Opponent Modeling and Planning*. ICML 2024.
-- **Fanqi Kong**, Xiaoyuan Zhang, Xinyu Chen, Yaodong Yang, Song-Chun Zhu, Xue Feng. *Enhancing LLM-Based Social Bot via an Adversarial Learning Framework*. EMNLP 2025 (Oral).
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/500x300.png' alt="Empathy in Mixed-Motive Games" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning to Balance Altruism and Self-interest Based on Empathy in Mixed-Motive Games](#)
+
+**Fanqi Kong**, Yizhe Huang, Song-Chun Zhu, Siyuan Qi, Xue Feng  
+[**Paper**](#) · [**Code**](#) · [**Dataset**](#)
+
+- Empathetic policy learning framework that adapts cooperation dynamics in mixed-motive games.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 DB</div><img src='images/500x300.png' alt="AdaSociety" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AdaSociety: An Adaptive Environment with Social Structures for Multi-Agent Decision-Making](#)
+
+Yizhe Huang, Xingbo Wang, Hao Liu, **Fanqi Kong**, Aoyang Qin, Min Tang, Xiaoxi Wang, Song-Chun Zhu, Mingjie Bi, Siyuan Qi, *et al.*  
+[**Paper**](#) · [**Code**](#) · [**Dataset**](#)
+
+- Introduces a configurable benchmark with dynamic social roles for evaluating cooperative intelligence.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/500x300.png' alt="Hierarchical Opponent Modeling" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Efficient Adaptation in Mixed-Motive Environments via Hierarchical Opponent Modeling and Planning](#)
+
+Yizhe Huang, Anji Liu, **Fanqi Kong**, Yaodong Yang, Song-Chun Zhu, Xue Feng  
+[**Paper**](#) · [**Code**](#)
+
+- Two-tier opponent modeling that accelerates adaptation under shifting cooperative incentives.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/500x300.png' alt="LLM-Based Social Bot" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing LLM-Based Social Bot via an Adversarial Learning Framework](#)
+
+**Fanqi Kong**, Xiaoyuan Zhang, Xinyu Chen, Yaodong Yang, Song-Chun Zhu, Xue Feng  
+[**Paper**](#) · [**Code**](#) · [**Dataset**](#)  
+<span style="color:#d9534f;font-weight:bold;">Oral Presentation</span>
+
+- Adversarial training pipeline that strengthens conversational robustness and social reasoning in LLM agents.
+</div>
+</div>
 
 # 🧪 Preprints
-- **Fanqi Kong**, Weiqin Zu, Xinyu Chen, Yaodong Yang, Song-Chun Zhu, Xue Feng. *SIV-Bench: A Video Benchmark for Social Interaction Understanding and Reasoning*. arXiv:2506.05425, 2025.
-- Min Tang, **Fanqi Kong**, Linyuan Lu, Xue Feng. *Adaptive Punishment for Cooperation in Mixed-Motive Games*. Under review at NeurIPS 2025.
-- **Fanqi Kong**, Ruijie Zhang, Huaxiao Yin, Guibin Zhang, Xiaofei Zhang, Ziang Chen, Zhaowei Zhang, Xiaoyuan Zhang, Song-Chun Zhu, Xue Feng. *AEGIS: Automated Error Generation and Identification for Multi-Agent Systems*. arXiv:2509.14295, 2025.
-- Yiwen Zhang, Ziang Chen, **Fanqi Kong**, Yizhe Huang, Xue Feng. *ToMPO: Training LLM Strategic Decision Making from a Multi-Agent Perspective*. arXiv:2509.21134, 2025.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/500x300.png' alt="SIV-Bench" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SIV-Bench: A Video Benchmark for Social Interaction Understanding and Reasoning](https://arxiv.org/abs/2506.05425)
+
+**Fanqi Kong**, Weiqin Zu, Xinyu Chen, Yaodong Yang, Song-Chun Zhu, Xue Feng  
+[**Paper**](https://arxiv.org/abs/2506.05425) · [**Code**](#) · [**Dataset**](#)
+
+- Benchmark focused on multimodal social interaction comprehension and causal reasoning in videos.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/500x300.png' alt="Adaptive Punishment" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Adaptive Punishment for Cooperation in Mixed-Motive Games](#)
+
+Min Tang, **Fanqi Kong**, Linyuan Lu, Xue Feng  
+[**Paper**](#) · [**Code**](#)
+
+- Investigates adaptive sanction mechanisms that stabilize cooperation under strategic incentives.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/500x300.png' alt="AEGIS" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AEGIS: Automated Error Generation and Identification for Multi-Agent Systems](https://arxiv.org/abs/2509.14295)
+
+**Fanqi Kong**, Ruijie Zhang, Huaxiao Yin, Guibin Zhang, Xiaofei Zhang, Ziang Chen, Zhaowei Zhang, Xiaoyuan Zhang, Song-Chun Zhu, Xue Feng  
+[**Paper**](https://arxiv.org/abs/2509.14295) · [**Code**](#)
+
+- Automated pipeline that stress-tests multi-agent deployments by synthesizing diverse failure scenarios.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/500x300.png' alt="ToMPO" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ToMPO: Training LLM Strategic Decision Making from a Multi-Agent Perspective](https://arxiv.org/abs/2509.21134)
+
+Yiwen Zhang, Ziang Chen, **Fanqi Kong**, Yizhe Huang, Xue Feng  
+[**Paper**](https://arxiv.org/abs/2509.21134) · [**Code**](#)
+
+- Teaches large language models theory-of-mind planning skills through multi-agent policy optimization.
+</div>
+</div>
 
 # 🏆 Honors and Awards
 - *2025* — National Scholarship, Peking University.
@@ -55,10 +144,6 @@ I am a first-year Ph.D. student at the Institute for Artificial Intelligence, Pe
 # 💼 Research Experience
 - *2023 – Present* — Research Intern, Multi-Agent System Lab, Beijing Institute for General Artificial Intelligence (BIGAI). Developing algorithms for multi-agent decision making and empathetic cooperation.
 
-# 🛠 Projects
-- *Parallel Execution of RL Environments via C++ Thread Pool* (2022). Developed EnvPool, a multithreaded simulator to accelerate RL training, focusing on Google Research Football.
-- *Video Captioning based on the "Five Minds" Theory* (2021). Reproduced state-of-the-art video captioning models on a custom dataset to evaluate the "Five Minds" framework.
-
 # 🤝 Leadership and Service
 - *2024 – Present* — Head of Academic Department, School of Intelligence Science and Technology, Peking University.
 - *2023 – 2024* — Presidium Member, Student Union, Department of Automation, Tsinghua University.
@@ -66,11 +151,3 @@ I am a first-year Ph.D. student at the Institute for Artificial Intelligence, Pe
 
 # 🎮 Competitions
 - *2023* — NeurIPS Melting Pot Contest, Honorable Winner (6/117). Core contributor on mixed-motive multi-agent cooperation tasks.
-
-# 🧰 Skills
-- Programming: Python, C++, C.
-- Machine Learning: PyTorch, reinforcement learning, large language and multimodal models (inference and fine-tuning).
-- Tools: Git, Linux, SLURM.
-- Research: Algorithm design, experiment design, data collection, literature review.
-- Soft skills: Teamwork, problem-solving, self-motivated.
-- Languages: Mandarin (native), English (fluent working proficiency).
