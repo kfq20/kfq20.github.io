@@ -34,7 +34,7 @@ I am a second-year Ph.D. student at Peking University. My research focuses on so
 [SIV-Bench: A Video Benchmark for Social Interaction Understanding and Reasoning](https://arxiv.org/abs/2506.05425)
 
 **Fanqi Kong**, Weiqin Zu, Xinyu Chen, Yaodong Yang, Song-Chun Zhu, Xue Feng  
-[**Paper**](https://arxiv.org/abs/2506.05425) · [**Code**](#) · [**Dataset**](#)
+[**Paper**](https://arxiv.org/abs/2506.05425) · [**Code**](https://github.com/kfq20/SIV-Bench) · [**Dataset**](https://huggingface.co/datasets/Fancylalala/SIV-Bench)
 
 - A video benchmark for evaluating social scene understanding, social state reasoning, and social dynamics prediction in multimodal models.
 </div>
@@ -58,7 +58,7 @@ I am a second-year Ph.D. student at Peking University. My research focuses on so
 [Aegis: Automated Error Generation and Attribution for Multi-Agent Systems](https://arxiv.org/abs/2509.14295)
 
 **Fanqi Kong**, Ruijie Zhang, Huaxiao Yin, Guibin Zhang, Xiaofei Zhang, Ziang Chen, Zhaowei Zhang, Xiaoyuan Zhang, Song-Chun Zhu, Xue Feng  
-[**Paper**](https://arxiv.org/abs/2509.14295) · [**Code**](#)
+[**Paper**](https://arxiv.org/abs/2509.14295) · [**Code**](https://github.com/kfq20/AEGIS) · [**Dataset**](https://huggingface.co/datasets/Fancylalala/AEGIS)
 
 - An automated framework for generating diverse multi-agent failures and training models to attribute errors to the responsible agents.
 </div>
@@ -70,7 +70,7 @@ I am a second-year Ph.D. student at Peking University. My research focuses on so
 [Enhancing LLM-Based Social Bot via an Adversarial Learning Framework](https://aclanthology.org/2025.emnlp-main.1185/)
 
 **Fanqi Kong**, Xiaoyuan Zhang, Xinyu Chen, Yaodong Yang, Song-Chun Zhu, Xue Feng  
-[**Paper**](https://aclanthology.org/2025.emnlp-main.1185/) · [**Code**](#) · [**Dataset**](#)  
+[**Paper**](https://aclanthology.org/2025.emnlp-main.1185/) · [**Code**](https://github.com/kfq20/EvoBot)
 <span style="color:#d9534f;font-weight:bold;">Oral Presentation</span>
 
 - Adversarial training pipeline that strengthens conversational robustness and social reasoning in LLM agents.
@@ -83,31 +83,31 @@ I am a second-year Ph.D. student at Peking University. My research focuses on so
 [Learning to Balance Altruism and Self-interest Based on Empathy in Mixed-Motive Games](https://arxiv.org/abs/2410.07863)
 
 **Fanqi Kong**, Yizhe Huang, Song-Chun Zhu, Siyuan Qi, Xue Feng  
-[**Paper**](https://arxiv.org/abs/2410.07863) · [**Code**](#) · [**Dataset**](#)
+[**Paper**](https://arxiv.org/abs/2410.07863)
 
 - Empathetic policy learning framework that adapts cooperation dynamics in mixed-motive games.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 DB</div><img src='images/500x300.png' alt="AdaSociety" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 DB</div><img src='images/adasociety.jpg' alt="AdaSociety" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AdaSociety: An Adaptive Environment with Social Structures for Multi-Agent Decision-Making](#)
+[AdaSociety: An Adaptive Environment with Social Structures for Multi-Agent Decision-Making](https://arxiv.org/abs/2411.03865)
 
 Yizhe Huang, Xingbo Wang, Hao Liu, **Fanqi Kong**, Aoyang Qin, Min Tang, Xiaoxi Wang, Song-Chun Zhu, Mingjie Bi, Siyuan Qi, *et al.*  
-[**Paper**](#) · [**Code**](#) · [**Dataset**](#)
+[**Paper**](https://arxiv.org/abs/2411.03865)
 
 - Introduces a configurable benchmark with dynamic social roles for evaluating cooperative intelligence.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/500x300.png' alt="Hierarchical Opponent Modeling" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/icml24.jpg' alt="Hierarchical Opponent Modeling" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Efficient Adaptation in Mixed-Motive Environments via Hierarchical Opponent Modeling and Planning](#)
+[Efficient Adaptation in Mixed-Motive Environments via Hierarchical Opponent Modeling and Planning](https://arxiv.org/abs/2406.08002)
 
 Yizhe Huang, Anji Liu, **Fanqi Kong**, Yaodong Yang, Song-Chun Zhu, Xue Feng  
-[**Paper**](#) · [**Code**](#)
+[**Paper**](https://arxiv.org/abs/2406.08002)
 
 - Two-tier opponent modeling that accelerates adaptation under shifting cooperative incentives.
 </div>
@@ -115,7 +115,7 @@ Yizhe Huang, Anji Liu, **Fanqi Kong**, Yaodong Yang, Song-Chun Zhu, Xue Feng
 
 # 🧪 Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/500x300.png' alt="AutoEnv" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/autoenv.jpg' alt="AutoEnv" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning](https://arxiv.org/abs/2511.19304)
@@ -140,13 +140,12 @@ Jiayi Zhang, Yiran Peng, **Fanqi Kong**, Yang Cheng, Yifan Wu, Zhaoyang Yu, Jiny
 - *2024 – Present* — Ph.D., Institute for Artificial Intelligence, Peking University. Advisor: Prof. Song-Chun Zhu.
 - *2020 – 2024* — B.S., Department of Automation, Tsinghua University. GPA: 3.78/4.00.
 
-# 💼 Research Experience
-- *2023 – Present* — Research Intern, Multi-Agent System Lab, Beijing Institute for General Artificial Intelligence (BIGAI). Developing algorithms for multi-agent decision making and empathetic cooperation.
-
 # 🤝 Leadership and Service
+- *2026* — Reviewer, ICML 2026.
+- *2026* — Reviewer, ICLR 2026.
+- *2025* — Reviewer, NeurIPS 2025.
 - *2024 – Present* — Head of Academic Department, School of Intelligence Science and Technology, Peking University.
 - *2023 – 2024* — Presidium Member, Student Union, Department of Automation, Tsinghua University.
-- *2022 – 2023* — Head of Arts Department, Student Union, Department of Automation, Tsinghua University.
 
 # 🎮 Competitions
 - *2023* — NeurIPS Melting Pot Contest, Honorable Winner (6/117). Core contributor on mixed-motive multi-agent cooperation tasks.
