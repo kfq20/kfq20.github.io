@@ -17,25 +17,73 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student at the Institute for Artificial Intelligence, Peking University, advised by Prof. Song-Chun Zhu. My research explores multi-agent decision making, empathetic cooperation, and social intelligence. I am also a research intern in the Multi-Agent System Lab at the Beijing Institute for General Artificial Intelligence (BIGAI), where I build learning algorithms for mixed-motive environments. Previously, I completed my B.S. in Automation at Tsinghua University (GPA 3.78/4.00).
+I am a second-year Ph.D. student at Peking University. My research focuses on socially intelligent agents: how they understand social interactions, make decisions in multi-agent environments, and interact effectively with humans and other agents. I want to build learning algorithms, benchmarks, and diagnostic methods with the goal of making agent systems more adaptive, reliable, and socially aware.
 
-**Research interests:** multi-agent reinforcement learning, social intelligence, large language model agents  
+**Research interests:** multi-agent systems, social intelligence, large language model agents, agent evaluation and learning  
 **Email:** kfq20@stu.pku.edu.cn · **Phone:** (+86) 173-5819-0815 · **Location:** Beijing, China
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉 Awarded the National Scholarship at Peking University.
-- *2024.09*: &nbsp;✨ Started my Ph.D. at Peking University and began serving as Head of the Academic Department, School of Intelligence Science and Technology.
-- *2023.12*: &nbsp;🏆 Our team finished 6/117 (Honorable Winner) in the NeurIPS 2023 Melting Pot Contest.
+
+- *2026*: &nbsp;🎉 Three papers were accepted: **SIV-Bench** at Findings of ACL 2026, **InfoPO** at the Lifelong Agent Workshop @ ICLR 2026, and **Aegis** at ICLR 2026.
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/500x300.png' alt="Empathy in Mixed-Motive Games" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL 2026</div><img src='images/sivbench.jpg' alt="SIV-Bench" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning to Balance Altruism and Self-interest Based on Empathy in Mixed-Motive Games](#)
+[SIV-Bench: A Video Benchmark for Social Interaction Understanding and Reasoning](https://arxiv.org/abs/2506.05425)
+
+**Fanqi Kong**, Weiqin Zu, Xinyu Chen, Yaodong Yang, Song-Chun Zhu, Xue Feng  
+[**Paper**](https://arxiv.org/abs/2506.05425) · [**Code**](#) · [**Dataset**](#)
+
+- A video benchmark for evaluating social scene understanding, social state reasoning, and social dynamics prediction in multimodal models.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Lifelong Agent Workshop @ ICLR 2026</div><img src='images/infopo.jpg' alt="InfoPO" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[InfoPO: Information-Driven Policy Optimization for User-Centric Agents](https://arxiv.org/abs/2603.00656)
+
+**Fanqi Kong**, Jiayi Zhang, Mingyi Deng, Chenglin Wu, Yuyu Luo, Bang Liu  
+[**Paper**](https://arxiv.org/abs/2603.00656) · [**Code**](https://github.com/kfq20/InfoPO)
+
+- Optimizes user-centric agents by rewarding information-seeking interactions that reduce uncertainty and improve downstream decisions.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/aegis.jpg' alt="Aegis" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Aegis: Automated Error Generation and Attribution for Multi-Agent Systems](https://arxiv.org/abs/2509.14295)
+
+**Fanqi Kong**, Ruijie Zhang, Huaxiao Yin, Guibin Zhang, Xiaofei Zhang, Ziang Chen, Zhaowei Zhang, Xiaoyuan Zhang, Song-Chun Zhu, Xue Feng  
+[**Paper**](https://arxiv.org/abs/2509.14295) · [**Code**](#)
+
+- An automated framework for generating diverse multi-agent failures and training models to attribute errors to the responsible agents.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/evobot.jpg' alt="LLM-Based Social Bot" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing LLM-Based Social Bot via an Adversarial Learning Framework](https://aclanthology.org/2025.emnlp-main.1185/)
+
+**Fanqi Kong**, Xiaoyuan Zhang, Xinyu Chen, Yaodong Yang, Song-Chun Zhu, Xue Feng  
+[**Paper**](https://aclanthology.org/2025.emnlp-main.1185/) · [**Code**](#) · [**Dataset**](#)  
+<span style="color:#d9534f;font-weight:bold;">Oral Presentation</span>
+
+- Adversarial training pipeline that strengthens conversational robustness and social reasoning in LLM agents.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/lase.jpg' alt="Empathy in Mixed-Motive Games" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning to Balance Altruism and Self-interest Based on Empathy in Mixed-Motive Games](https://arxiv.org/abs/2410.07863)
 
 **Fanqi Kong**, Yizhe Huang, Song-Chun Zhu, Siyuan Qi, Xue Feng  
-[**Paper**](#) · [**Code**](#) · [**Dataset**](#)
+[**Paper**](https://arxiv.org/abs/2410.07863) · [**Code**](#) · [**Dataset**](#)
 
 - Empathetic policy learning framework that adapts cooperation dynamics in mixed-motive games.
 </div>
@@ -65,66 +113,17 @@ Yizhe Huang, Anji Liu, **Fanqi Kong**, Yaodong Yang, Song-Chun Zhu, Xue Feng
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/500x300.png' alt="LLM-Based Social Bot" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Enhancing LLM-Based Social Bot via an Adversarial Learning Framework](#)
-
-**Fanqi Kong**, Xiaoyuan Zhang, Xinyu Chen, Yaodong Yang, Song-Chun Zhu, Xue Feng  
-[**Paper**](#) · [**Code**](#) · [**Dataset**](#)  
-<span style="color:#d9534f;font-weight:bold;">Oral Presentation</span>
-
-- Adversarial training pipeline that strengthens conversational robustness and social reasoning in LLM agents.
-</div>
-</div>
-
 # 🧪 Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/500x300.png' alt="SIV-Bench" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/500x300.png' alt="AutoEnv" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SIV-Bench: A Video Benchmark for Social Interaction Understanding and Reasoning](https://arxiv.org/abs/2506.05425)
+[AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning](https://arxiv.org/abs/2511.19304)
 
-**Fanqi Kong**, Weiqin Zu, Xinyu Chen, Yaodong Yang, Song-Chun Zhu, Xue Feng  
-[**Paper**](https://arxiv.org/abs/2506.05425) · [**Code**](#) · [**Dataset**](#)
+Jiayi Zhang, Yiran Peng, **Fanqi Kong**, Yang Cheng, Yifan Wu, Zhaoyang Yu, Jinyu Xiang, Jianhao Ruan, Jinlin Wang, *et al.*  
+[**Paper**](https://arxiv.org/abs/2511.19304) · [**Code**](https://github.com/FoundationAgents/AutoEnv)
 
-- Benchmark focused on multimodal social interaction comprehension and causal reasoning in videos.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/500x300.png' alt="Adaptive Punishment" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Adaptive Punishment for Cooperation in Mixed-Motive Games](#)
-
-Min Tang, **Fanqi Kong**, Linyuan Lu, Xue Feng  
-[**Paper**](#) · [**Code**](#)
-
-- Investigates adaptive sanction mechanisms that stabilize cooperation under strategic incentives.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/500x300.png' alt="AEGIS" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[AEGIS: Automated Error Generation and Identification for Multi-Agent Systems](https://arxiv.org/abs/2509.14295)
-
-**Fanqi Kong**, Ruijie Zhang, Huaxiao Yin, Guibin Zhang, Xiaofei Zhang, Ziang Chen, Zhaowei Zhang, Xiaoyuan Zhang, Song-Chun Zhu, Xue Feng  
-[**Paper**](https://arxiv.org/abs/2509.14295) · [**Code**](#)
-
-- Automated pipeline that stress-tests multi-agent deployments by synthesizing diverse failure scenarios.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/500x300.png' alt="ToMPO" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ToMPO: Training LLM Strategic Decision Making from a Multi-Agent Perspective](https://arxiv.org/abs/2509.21134)
-
-Yiwen Zhang, Ziang Chen, **Fanqi Kong**, Yizhe Huang, Xue Feng  
-[**Paper**](https://arxiv.org/abs/2509.21134) · [**Code**](#)
-
-- Teaches large language models theory-of-mind planning skills through multi-agent policy optimization.
+- An automated environment framework for measuring how well agents learn and adapt across diverse environments with different rules and dynamics.
 </div>
 </div>
 
