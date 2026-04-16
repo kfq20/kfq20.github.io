@@ -95,7 +95,7 @@ I am a second-year Ph.D. student at Peking University. My research focuses on so
 
 [AdaSociety: An Adaptive Environment with Social Structures for Multi-Agent Decision-Making](https://arxiv.org/abs/2411.03865)
 
-Yizhe Huang, Xingbo Wang, Hao Liu, **Fanqi Kong**, Aoyang Qin, Min Tang, Xiaoxi Wang, Song-Chun Zhu, Mingjie Bi, Siyuan Qi, *et al.*  
+Yizhe Huang, Xingbo Wang, Hao Liu, **Fanqi Kong**, Aoyang Qin, Min Tang, Song-Chun Zhu, Mingjie Bi, Siyuan Qi, Xue Feng  
 [**Paper**](https://arxiv.org/abs/2411.03865)
 
 - Introduces a configurable benchmark with dynamic social roles for evaluating cooperative intelligence.
@@ -121,7 +121,7 @@ Yizhe Huang, Anji Liu, **Fanqi Kong**, Yaodong Yang, Song-Chun Zhu, Xue Feng
 
 [AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning](https://arxiv.org/abs/2511.19304)
 
-Jiayi Zhang, Yiran Peng, **Fanqi Kong**, Yang Cheng, Yifan Wu, Zhaoyang Yu, Jinyu Xiang, Jianhao Ruan, Jinlin Wang, *et al.*  
+Jiayi Zhang, Yiran Peng, **Fanqi Kong**, Yang Cheng, Yifan Wu, Zhaoyang Yu, Jinyu Xiang, Jianhao Ruan, Jinlin Wang, Maojia Song, HongZhang Liu, Xiangru Tang, Bang Liu, Chenglin Wu, Yuyu Luo  
 [**Paper**](https://arxiv.org/abs/2511.19304) · [**Code**](https://github.com/FoundationAgents/AutoEnv)
 
 - An automated environment framework for measuring how well agents learn and adapt across diverse environments with different rules and dynamics.
