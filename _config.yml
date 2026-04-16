@@ -7,8 +7,10 @@
 
 # Site Settings
 title                    : "Fanqi Kong"
-description              : "Ph.D. student at Peking University focusing on multi-agent social intelligence."
-repository               : "kfq20/kongfanqi.github.io"
+description              : "Fanqi Kong is a Ph.D. student at Peking University working on socially intelligent agents, multi-agent systems, and LLM-based agents."
+url                      : "https://kfq20.github.io"
+baseurl                  : ""
+repository               : "kfq20/kfq20.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,14 +25,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Fanqi Kong"
   avatar           : "images/fanqi.jpg"
-  bio              : "Ph.D. student at Peking University and research intern at BIGAI working on multi-agent social intelligence."
+  bio              : "Ph.D. student at Peking University working on socially intelligent agents, multi-agent systems, and LLM-based agents."
   location         : "Beijing, China"
   employer         : "Peking University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Aj13PkAAAAAJ"
   email            : "kfq20@stu.pku.edu.cn"
+  uri              : "https://kfq20.github.io"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
   bitbucket        :
   codepen          :
   dribbble         :

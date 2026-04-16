@@ -1,0 +1,28 @@
+{% if page.url == "/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "url": "{{ site.url }}{{ page.url }}",
+  "name": "{{ site.title | escape }}",
+  "mainEntity": {
+    "@type": "Person",
+    "name": "{{ site.author.name | escape }}",
+    "url": "{{ site.author.uri | default: site.url }}",
+    "image": "{{ site.url }}/{{ site.author.avatar }}",
+    "jobTitle": "Ph.D. student",
+    "affiliation": {
+      "@type": "CollegeOrUniversity",
+      "name": "Peking University"
+    },
+    "description": "{{ site.description | escape }}",
+    "email": "mailto:{{ site.author.email }}",
+    "sameAs": [
+      "{{ site.author.googlescholar }}",
+      "{{ site.author.github }}",
+      "{{ site.author.dblp }}"
+    ]
+  }
+}
+</script>
+{% endif %}

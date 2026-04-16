@@ -71,6 +71,7 @@ I am a second-year Ph.D. student at Peking University. My research focuses on so
 
 **Fanqi Kong**, Xiaoyuan Zhang, Xinyu Chen, Yaodong Yang, Song-Chun Zhu, Xue Feng  
 [**Paper**](https://aclanthology.org/2025.emnlp-main.1185/) · [**Code**](https://github.com/kfq20/EvoBot)
+
 <span style="color:#d9534f;font-weight:bold;">Oral Presentation</span>
 
 - Adversarial training pipeline that strengthens conversational robustness and social reasoning in LLM agents.
@@ -137,8 +138,8 @@ Jiayi Zhang, Yiran Peng, **Fanqi Kong**, Yang Cheng, Yifan Wu, Zhaoyang Yu, Jiny
 - *2021* — Tsinghua University Scholarship (Excellence in Social Work).
 
 # 🎓 Education
-- *2024 – Present* — Ph.D., Institute for Artificial Intelligence, Peking University. Advisor: Prof. Song-Chun Zhu.
-- *2020 – 2024* — B.S., Department of Automation, Tsinghua University. GPA: 3.78/4.00.
+- *2024 – Present* — Ph.D., Institute for Artificial Intelligence, Peking University.
+- *2020 – 2024* — B.S., Department of Automation, Tsinghua University.
 
 # 🤝 Leadership and Service
 - *2026* — Reviewer, ICML 2026.
