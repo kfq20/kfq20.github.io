@@ -7,7 +7,6 @@
 
 # Site Settings
 title                    : "Fanqi Kong"
-description              : "Fanqi Kong is a Ph.D. student at Peking University working on socially intelligent agents, multi-agent systems, and LLM-based agents."
 url                      : "https://kfq20.github.io"
 baseurl                  : ""
 repository               : "kfq20/kfq20.github.io"
@@ -25,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Fanqi Kong"
   avatar           : "images/fanqi.jpg"
-  bio              : "Ph.D. student at Peking University working on socially intelligent agents, multi-agent systems, and LLM-based agents."
+  bio              : "Ph.D. student at Peking University"
   location         : "Beijing, China"
   employer         : "Peking University"
   pubmed           : 
