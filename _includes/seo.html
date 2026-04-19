@@ -9,9 +9,6 @@
 {% endif %}
 
 {% assign seo_title = page.title | default: site.title %}
-{% if page.url == "/" %}
-  {% assign seo_title = site.title | append: " | Peking University" %}
-{% endif %}
 
 <title>{{ seo_title }}</title>
 
