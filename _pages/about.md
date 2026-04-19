@@ -24,7 +24,9 @@ I am a second-year Ph.D. student at Peking University. My research focuses on so
 
 # 🔥 News
 
-- *2026*: &nbsp;🎉 Three papers were accepted: **SIV-Bench** at Findings of ACL 2026, **InfoPO** at the Lifelong Agent Workshop @ ICLR 2026, and **Aegis** at ICLR 2026.
+- *2026.04*: &nbsp;🎉 One paper was accepted to Findings of ACL 2026.
+- *2026.03*: &nbsp;🎉 One paper was accepted to the Lifelong Agent Workshop @ ICLR 2026.
+- *2026.01*: &nbsp;🎉 One paper was accepted to ICLR 2026.
 
 # 📝 Publications
 
