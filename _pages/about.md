@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student at Peking University. My research focuses on socially intelligent agents: how they understand social interactions, make decisions in multi-agent environments, and interact effectively with humans and other agents. I want to build learning algorithms, benchmarks, and diagnostic methods with the goal of making agent systems more adaptive, reliable, and socially aware.
+I am a second-year Ph.D. student at Peking University. Before that, I received my B.S. degree from the Department of Automation at Tsinghua University. My research focuses on socially intelligent agents: how they understand social interactions, make decisions in multi-agent environments, and interact effectively with humans and other agents. I want to build learning algorithms, benchmarks, and diagnostic methods with the goal of making agent systems more adaptive, reliable, and socially aware.
 
 **Research interests:** multi-agent systems, social intelligence, large language model agents, agent evaluation and learning  
 **Email:** kfq20@stu.pku.edu.cn · **Phone:** (+86) 173-5819-0815 · **Location:** Beijing, China
