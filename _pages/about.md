@@ -144,7 +144,7 @@ Jiayi Zhang, Yiran Peng, **Fanqi Kong**, Yang Cheng, Yifan Wu, Zhaoyang Yu, Jiny
 - *2026* — Reviewer, ICML 2026.
 - *2026* — Reviewer, ICLR 2026.
 - *2025* — Reviewer, NeurIPS 2025.
-- *2024 – Present* — Head of Academic Department, School of Intelligence Science and Technology, Peking University.
+- *2025 – Present* — President, Graduate Student Union, School of Intelligence Science and Technology, Peking University.
 - *2023 – 2024* — Presidium Member, Student Union, Department of Automation, Tsinghua University.
 
 # 🎮 Competitions
