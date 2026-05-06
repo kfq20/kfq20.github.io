@@ -31,7 +31,7 @@ I am a second-year Ph.D. student at Peking University. Before that, I received m
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/infopo.jpg' alt="InfoPO" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/infopo_2.jpg' alt="InfoPO" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [InfoPO: Information-Driven Policy Optimization for User-Centric Agents](https://arxiv.org/abs/2603.00656)
