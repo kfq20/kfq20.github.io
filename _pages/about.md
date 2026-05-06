@@ -24,11 +24,24 @@ I am a second-year Ph.D. student at Peking University. Before that, I received m
 
 # 🔥 News
 
+- *2026.05*: &nbsp;🎉 Three papers were accepted to ICML 2026.
 - *2026.04*: &nbsp;🎉 One paper was accepted to Findings of ACL 2026.
 - *2026.03*: &nbsp;🎉 One paper was accepted to the Lifelong Agent Workshop @ ICLR 2026.
 - *2026.01*: &nbsp;🎉 One paper was accepted to ICLR 2026.
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/infopo.jpg' alt="InfoPO" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[InfoPO: Information-Driven Policy Optimization for User-Centric Agents](https://arxiv.org/abs/2603.00656)
+
+**Fanqi Kong**, Jiayi Zhang, Mingyi Deng, Chenglin Wu, Yuyu Luo, Bang Liu  
+[**Paper**](https://arxiv.org/abs/2603.00656) · [**Code**](https://github.com/kfq20/InfoPO)
+
+- Optimizes user-centric agents by rewarding information-seeking interactions that reduce uncertainty and improve downstream decisions.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL 2026</div><img src='images/sivbench.jpg' alt="SIV-Bench" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -39,18 +52,6 @@ I am a second-year Ph.D. student at Peking University. Before that, I received m
 [**Paper**](https://arxiv.org/abs/2506.05425) · [**Code**](https://github.com/kfq20/SIV-Bench) · [**Dataset**](https://huggingface.co/datasets/Fancylalala/SIV-Bench)
 
 - A video benchmark for evaluating social scene understanding, social state reasoning, and social dynamics prediction in multimodal models.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Lifelong Agent Workshop @ ICLR 2026</div><img src='images/infopo.jpg' alt="InfoPO" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[InfoPO: Information-Driven Policy Optimization for User-Centric Agents](https://arxiv.org/abs/2603.00656)
-
-**Fanqi Kong**, Jiayi Zhang, Mingyi Deng, Chenglin Wu, Yuyu Luo, Bang Liu  
-[**Paper**](https://arxiv.org/abs/2603.00656) · [**Code**](https://github.com/kfq20/InfoPO)
-
-- Optimizes user-centric agents by rewarding information-seeking interactions that reduce uncertainty and improve downstream decisions.
 </div>
 </div>
 
