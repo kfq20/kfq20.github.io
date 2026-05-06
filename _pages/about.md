@@ -133,12 +133,8 @@ Jiayi Zhang, Yiran Peng, **Fanqi Kong**, Yang Cheng, Yifan Wu, Zhaoyang Yu, Jiny
 
 # 🏆 Honors and Awards
 - *2025* — National Scholarship, Peking University.
-- *2024* — Lixin Scholarship, School of Intelligence Science and Technology, Peking University.
 - *2024* — Outstanding Graduate, Department of Automation, Tsinghua University.
-- *2023* — Friend of Tsinghua – Hande Scholarship.
-- *2023* — Tsinghua University Scholarship (Excellence in Arts and Literature).
 - *2023* — Person of the Year, Department of Automation, Tsinghua University.
-- *2021* — Tsinghua University Scholarship (Excellence in Social Work).
 
 # 🎓 Education
 - *2024 – Present* — Ph.D., Institute for Artificial Intelligence, Peking University.
